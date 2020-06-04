@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Kyle&#39;s Blog</title>
+    <link>https://2019052596.nnm.jnu.rocks/hugo/en/page/</link>
+    <description>Recent content in Pages on Kyle&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Nov 2017 13:17:56 +0100</lastBuildDate>
+    
+	<atom:link href="https://2019052596.nnm.jnu.rocks/hugo/en/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Github</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/page/github/</link>
+      <pubDate>Wed, 01 Nov 2017 13:17:56 +0100</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/page/github/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

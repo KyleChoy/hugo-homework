@@ -352,4 +352,34 @@
                 />
   </url>
   
+  <url>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/en/page/github/</loc>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="中"
+                href="https://2019052596.nnm.jnu.rocks/hugo/page/github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2019052596.nnm.jnu.rocks/hugo/en/page/github/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/en/page/</loc>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="中"
+                href="https://2019052596.nnm.jnu.rocks/hugo/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2019052596.nnm.jnu.rocks/hugo/en/page/"
+                />
+  </url>
+  
 </urlset>

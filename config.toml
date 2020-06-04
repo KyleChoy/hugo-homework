@@ -122,7 +122,7 @@ disqusShortname = ""
     copyrightYearOverride = "2020"
     copyrightUrl = "https://github.com/kylechoy"
     creditsText = "Bilberry Hugo Theme"
-    creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
+    creditsUrl = "https://github.com/KyleChoy/bilberry-hugo-theme"
 
 
 ## 配置valine评论
