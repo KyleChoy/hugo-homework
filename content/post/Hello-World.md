@@ -13,7 +13,7 @@ print("Hello World!")
 #### 主题
 * [Bilberry Hugo Theme](https://github.com/Lednerb/bilberry-hugo-theme)
 #### 预览
-![主题预览](/img/screenshot.png)
+![主题预览](/hugo/img/screenshot.png)
 [点击前往 DEMO 站点](https://lednerb.github.io/bilberry-hugo-theme)
 
 #### 特性

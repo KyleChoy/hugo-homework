@@ -13,7 +13,7 @@ print("Hello World!")
 #### Theme
 * [Bilberry Hugo Theme](https://github.com/Lednerb/bilberry-hugo-theme)
 #### Preview
-![Theme Preview](/img/screenshot.png)
+![Theme Preview](/hugo/img/screenshot.png)
 [Click to visit DEMO website](https://lednerb.github.io/bilberry-hugo-theme)
 #### Features
 * Algolia Search
