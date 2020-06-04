@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quotes on Kyle&#39;s Blog</title>
+    <link>https://2019052596.nnm.jnu.rocks/hugo/en/quote/</link>
+    <description>Recent content in Quotes on Kyle&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jun 2020 16:45:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://2019052596.nnm.jnu.rocks/hugo/en/quote/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Little Prince</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/quote/the-little-prince/</link>
+      <pubDate>Mon, 01 Jun 2020 16:45:53 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/quote/the-little-prince/</guid>
+      <description>All grown-ups were once a child, though, only a few people remember.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>META on Kyle&#39;s Blog</title>
+    <link>https://2019052596.nnm.jnu.rocks/hugo/tags/meta/</link>
+    <description>Recent content in META on Kyle&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jun 2020 16:44:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://2019052596.nnm.jnu.rocks/hugo/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/post/hello-world/</link>
+      <pubDate>Mon, 01 Jun 2020 16:44:12 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/post/hello-world/</guid>
+      <description>&lt;p&gt;这里是利用 &lt;strong&gt;Hugo&lt;/strong&gt; 生成的博客网站，使用 &lt;strong&gt;Bilberry Hugo Theme&lt;/strong&gt; 作为主题，评论区由 &lt;strong&gt;Valine&lt;/strong&gt; 驱动。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

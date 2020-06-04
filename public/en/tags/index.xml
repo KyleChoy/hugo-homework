@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kyle&#39;s Blog</title>
+    <link>https://2019052596.nnm.jnu.rocks/hugo/en/tags/</link>
+    <description>Recent content in Tags on Kyle&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jun 2020 16:44:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://2019052596.nnm.jnu.rocks/hugo/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/tags/blog/</link>
+      <pubDate>Mon, 01 Jun 2020 16:44:12 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/tags/hugo/</link>
+      <pubDate>Mon, 01 Jun 2020 16:44:12 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>META</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/tags/meta/</link>
+      <pubDate>Mon, 01 Jun 2020 16:44:12 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/tags/theme/</link>
+      <pubDate>Mon, 01 Jun 2020 16:44:12 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GTA5</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/tags/gta5/</link>
+      <pubDate>Thu, 14 May 2020 23:00:00 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/tags/gta5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/tags/github/</link>
+      <pubDate>Mon, 13 Apr 2020 22:25:03 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexo</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/tags/hexo/</link>
+      <pubDate>Mon, 13 Apr 2020 22:25:03 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/tags/hexo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

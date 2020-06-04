@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Kyle&#39;s Blog</title>
+    <link>https://2019052596.nnm.jnu.rocks/hugo/tags/blog/</link>
+    <description>Recent content in Blog on Kyle&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jun 2020 16:44:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://2019052596.nnm.jnu.rocks/hugo/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/post/hello-world/</link>
+      <pubDate>Mon, 01 Jun 2020 16:44:12 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/post/hello-world/</guid>
+      <description>&lt;p&gt;这里是利用 &lt;strong&gt;Hugo&lt;/strong&gt; 生成的博客网站，使用 &lt;strong&gt;Bilberry Hugo Theme&lt;/strong&gt; 作为主题，评论区由 &lt;strong&gt;Valine&lt;/strong&gt; 驱动。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Windows 下使用 Hexo 和 Github 搭建免费个人博客</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/post/hexo-blog-in-windows/</link>
+      <pubDate>Mon, 13 Apr 2020 22:25:03 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/post/hexo-blog-in-windows/</guid>
+      <description>&lt;p&gt;此篇文章来自我的又双叒叕一个博客网站：&lt;a href=&#34;https://kylechoy.github.io/Windows-%E4%B8%8B%E4%BD%BF%E7%94%A8-Github-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.html&#34;&gt;https://kylechoy.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;hexo-简介&#34;&gt;Hexo 简介&lt;/h3&gt;
+&lt;p&gt;Hexo 是一款基于 Node.js 的快速、简洁且高效的博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在 GitHub 上，支持 Markdown。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

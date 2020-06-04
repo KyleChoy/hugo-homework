@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>META on Kyle&#39;s Blog</title>
+    <link>https://2019052596.nnm.jnu.rocks/hugo/en/tags/meta/</link>
+    <description>Recent content in META on Kyle&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jun 2020 16:44:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://2019052596.nnm.jnu.rocks/hugo/en/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/post/hello-world/</link>
+      <pubDate>Mon, 01 Jun 2020 16:44:12 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/post/hello-world/</guid>
+      <description>&lt;p&gt;This is yet another blog website powered by &lt;strong&gt;Hugo&lt;/strong&gt;，using &lt;strong&gt;Bilberry Hugo Theme&lt;/strong&gt;, and &lt;strong&gt;Valine&lt;/strong&gt; for comments.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle on Kyle&#39;s Blog</title>
+    <link>https://2019052596.nnm.jnu.rocks/hugo/en/author/kyle/</link>
+    <description>Recent content in Kyle on Kyle&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jun 2020 16:44:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://2019052596.nnm.jnu.rocks/hugo/en/author/kyle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/post/hello-world/</link>
+      <pubDate>Mon, 01 Jun 2020 16:44:12 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/post/hello-world/</guid>
+      <description>&lt;p&gt;This is yet another blog website powered by &lt;strong&gt;Hugo&lt;/strong&gt;，using &lt;strong&gt;Bilberry Hugo Theme&lt;/strong&gt;, and &lt;strong&gt;Valine&lt;/strong&gt; for comments.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Screenshots of GTA5</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/gallery/grand-theft-auto-5/</link>
+      <pubDate>Thu, 14 May 2020 23:00:00 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/gallery/grand-theft-auto-5/</guid>
+      <description>We Are FREE!</description>
+    </item>
+    
+    <item>
+      <title>Built Free Blog Website Using Hexo And Github Under Windows</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/post/hexo-blog-in-windows/</link>
+      <pubDate>Mon, 13 Apr 2020 22:25:03 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/post/hexo-blog-in-windows/</guid>
+      <description>&lt;p&gt;This article comes from my blog website：&lt;a href=&#34;https://kylechoy.github.io/Windows-%E4%B8%8B%E4%BD%BF%E7%94%A8-Github-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.html&#34;&gt;https://kylechoy.github.io&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

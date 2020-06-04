@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Kyle&#39;s Blog</title>
+    <link>https://2019052596.nnm.jnu.rocks/hugo/en/categories/website/</link>
+    <description>Recent content in Website on Kyle&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Apr 2020 22:25:03 +0800</lastBuildDate>
+    
+	<atom:link href="https://2019052596.nnm.jnu.rocks/hugo/en/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Built Free Blog Website Using Hexo And Github Under Windows</title>
+      <link>https://2019052596.nnm.jnu.rocks/hugo/en/post/hexo-blog-in-windows/</link>
+      <pubDate>Mon, 13 Apr 2020 22:25:03 +0800</pubDate>
+      
+      <guid>https://2019052596.nnm.jnu.rocks/hugo/en/post/hexo-blog-in-windows/</guid>
+      <description>&lt;p&gt;This article comes from my blog website：&lt;a href=&#34;https://kylechoy.github.io/Windows-%E4%B8%8B%E4%BD%BF%E7%94%A8-Github-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.html&#34;&gt;https://kylechoy.github.io&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
