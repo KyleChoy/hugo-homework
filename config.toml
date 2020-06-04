@@ -1,7 +1,6 @@
 title = "Kyle's Blog"
 baseURL = "https://2019052596.nnm.jnu.rocks/hugo/"
 theme = "bilberry-hugo-theme"
-viewport = "width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=yes"
 
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
