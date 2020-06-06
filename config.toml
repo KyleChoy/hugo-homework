@@ -2,6 +2,7 @@ title = "Kyle's Blog"
 baseURL = "https://2019052596.nnm.jnu.rocks/hugo/"
 theme = "bilberry-hugo-theme"
 
+
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
 # Change to one of your content languages definded at the end.
@@ -12,6 +13,11 @@ googleAnalytics = ""
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = ""
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
 
 # Enable / Disable open link with a new tab.
 [blackfriday]

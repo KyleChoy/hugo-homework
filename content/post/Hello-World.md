@@ -14,7 +14,9 @@ print("Hello World!")
 * [Bilberry Hugo Theme](https://github.com/Lednerb/bilberry-hugo-theme)
 #### 预览
 ![主题预览](/hugo/img/screenshot.png)
+{{% center %}}
 [点击前往 DEMO 站点](https://lednerb.github.io/bilberry-hugo-theme)
+{{% /center %}}
 
 #### 特性
 * Algolia Search

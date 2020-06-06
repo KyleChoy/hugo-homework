@@ -14,7 +14,10 @@ print("Hello World!")
 * [Bilberry Hugo Theme](https://github.com/Lednerb/bilberry-hugo-theme)
 #### Preview
 ![Theme Preview](/hugo/img/screenshot.png)
+{{% center %}}
 [Click to visit DEMO website](https://lednerb.github.io/bilberry-hugo-theme)
+{{% /center %}}
+
 #### Features
 * Algolia Search
 * Keyboard Shortcuts
