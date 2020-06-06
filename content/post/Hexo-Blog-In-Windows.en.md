@@ -1,5 +1,5 @@
 ---
-title: "Built Free Blog Website Using Hexo And Github Under Windows"
+title: "Build Free Blog Website Using Hexo And Github Under Windows"
 date: 2020-04-13T22:25:03+08:00
 
 categories: ["Website"]

@@ -57,7 +57,7 @@ hexo s      #s是start的缩写，输入start也可以
 注意：xxx可以换为其他字符，但是 **.github.io** 不能更改
 
 
-#### 2. 生成SSH密钥并添加到GitHub
+#### 2. 生成 SSH 密钥并添加到GitHub
 * 返回 Git Bash，输入：
 ```bash
 git config --global user.name "yourname"
