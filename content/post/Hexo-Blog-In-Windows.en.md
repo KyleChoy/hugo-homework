@@ -89,7 +89,7 @@ deploy:
 ```
 Replace the link after `repo` as `Github -> YourRespository -> Clone or Download -> Use SSH`, example:
 
-![](https://i.loli.net/2020/04/20/YeBSHcVouyMtxKl.png)
+![SSH](/hugo/img/SSH.png)
 
 * Deploy
 ```bash

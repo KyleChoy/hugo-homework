@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://2019052596.nnm.jnu.rocks/hugo/author/</loc>
-    <lastmod>2020-06-01T16:45:53+08:00</lastmod>
+    <lastmod>2020-06-08T10:37:01+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,8 +18,53 @@
   </url>
   
   <url>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/categories/</loc>
+    <lastmod>2020-06-08T10:37:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2019052596.nnm.jnu.rocks/hugo/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中"
+                href="https://2019052596.nnm.jnu.rocks/hugo/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/tags/homework/</loc>
+    <lastmod>2020-06-08T10:37:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2019052596.nnm.jnu.rocks/hugo/en/tags/homework/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中"
+                href="https://2019052596.nnm.jnu.rocks/hugo/tags/homework/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/author/kyle/</loc>
+    <lastmod>2020-06-08T10:37:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2019052596.nnm.jnu.rocks/hugo/en/author/kyle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中"
+                href="https://2019052596.nnm.jnu.rocks/hugo/author/kyle/"
+                />
+  </url>
+  
+  <url>
     <loc>https://2019052596.nnm.jnu.rocks/hugo/</loc>
-    <lastmod>2020-06-01T16:45:53+08:00</lastmod>
+    <lastmod>2020-06-08T10:37:01+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +75,86 @@
                 hreflang="中"
                 href="https://2019052596.nnm.jnu.rocks/hugo/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/tags/list/</loc>
+    <lastmod>2020-06-08T10:37:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2019052596.nnm.jnu.rocks/hugo/en/tags/list/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中"
+                href="https://2019052596.nnm.jnu.rocks/hugo/tags/list/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/post/</loc>
+    <lastmod>2020-06-08T10:37:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2019052596.nnm.jnu.rocks/hugo/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中"
+                href="https://2019052596.nnm.jnu.rocks/hugo/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/tags/</loc>
+    <lastmod>2020-06-08T10:37:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2019052596.nnm.jnu.rocks/hugo/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中"
+                href="https://2019052596.nnm.jnu.rocks/hugo/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/tags/to-do/</loc>
+    <lastmod>2020-06-08T10:37:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2019052596.nnm.jnu.rocks/hugo/en/tags/to-do/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中"
+                href="https://2019052596.nnm.jnu.rocks/hugo/tags/to-do/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/post/to-do-list/</loc>
+    <lastmod>2020-06-08T10:37:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2019052596.nnm.jnu.rocks/hugo/en/post/to-do-list/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中"
+                href="https://2019052596.nnm.jnu.rocks/hugo/post/to-do-list/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-06-08T10:37:01+08:00</lastmod>
   </url>
   
   <url>
@@ -48,23 +173,18 @@
   </url>
   
   <url>
-    <loc>https://2019052596.nnm.jnu.rocks/hugo/quote/the-little-prince/</loc>
+    <loc>https://2019052596.nnm.jnu.rocks/hugo/quote/tips/</loc>
     <lastmod>2020-06-01T16:45:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://2019052596.nnm.jnu.rocks/hugo/en/quote/the-little-prince/"
+                href="https://2019052596.nnm.jnu.rocks/hugo/en/quote/tips/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="中"
-                href="https://2019052596.nnm.jnu.rocks/hugo/quote/the-little-prince/"
+                href="https://2019052596.nnm.jnu.rocks/hugo/quote/tips/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://2019052596.nnm.jnu.rocks/hugo/author/%E5%B0%8F%E7%8E%8B%E5%AD%90/</loc>
-    <lastmod>2020-06-01T16:45:53+08:00</lastmod>
   </url>
   
   <url>
@@ -79,21 +199,6 @@
                 rel="alternate"
                 hreflang="中"
                 href="https://2019052596.nnm.jnu.rocks/hugo/tags/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://2019052596.nnm.jnu.rocks/hugo/categories/</loc>
-    <lastmod>2020-06-01T16:44:12+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2019052596.nnm.jnu.rocks/hugo/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="中"
-                href="https://2019052596.nnm.jnu.rocks/hugo/categories/"
                 />
   </url>
   
@@ -128,21 +233,6 @@
   </url>
   
   <url>
-    <loc>https://2019052596.nnm.jnu.rocks/hugo/author/kyle/</loc>
-    <lastmod>2020-06-01T16:44:12+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2019052596.nnm.jnu.rocks/hugo/en/author/kyle/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="中"
-                href="https://2019052596.nnm.jnu.rocks/hugo/author/kyle/"
-                />
-  </url>
-  
-  <url>
     <loc>https://2019052596.nnm.jnu.rocks/hugo/tags/meta/</loc>
     <lastmod>2020-06-01T16:44:12+08:00</lastmod>
     <xhtml:link
@@ -154,36 +244,6 @@
                 rel="alternate"
                 hreflang="中"
                 href="https://2019052596.nnm.jnu.rocks/hugo/tags/meta/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://2019052596.nnm.jnu.rocks/hugo/post/</loc>
-    <lastmod>2020-06-01T16:44:12+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2019052596.nnm.jnu.rocks/hugo/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="中"
-                href="https://2019052596.nnm.jnu.rocks/hugo/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://2019052596.nnm.jnu.rocks/hugo/tags/</loc>
-    <lastmod>2020-06-01T16:44:12+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2019052596.nnm.jnu.rocks/hugo/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="中"
-                href="https://2019052596.nnm.jnu.rocks/hugo/tags/"
                 />
   </url>
   

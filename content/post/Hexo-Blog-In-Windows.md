@@ -91,7 +91,7 @@ deploy:
 ```
 其中，`repo` 后的链接替换为：`Github -> 仓库页面 -> Clone or Download -> Use SSH -> 文本框内容`，如下图：
 
-![](https://i.loli.net/2020/04/20/YeBSHcVouyMtxKl.png)
+![SSH](/hugo/img/SSH.png)
 
 * 部署
 ```bash
